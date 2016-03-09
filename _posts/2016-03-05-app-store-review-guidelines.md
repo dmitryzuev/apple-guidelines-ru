@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "App Store Review Guidelines"
-category: doc
+category: app-store-review-guidelines
 date: 2016-03-05 11:38:56
 ---
 # Введение

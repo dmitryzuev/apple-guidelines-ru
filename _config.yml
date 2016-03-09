@@ -36,7 +36,8 @@ codeurl: 'https://github.com/dmitryzuev/apple-guidelines-ru'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['doc', 'Документация']
+    ['app-store-review-guidelines', 'App Store Review Guidelines'],
+    ['MobileHIG', 'iOS Human Interface Guidelines']
 ]
 
 # Dates are not included in permalinks
@@ -47,3 +48,14 @@ future: true
 
 # Exclude non-site files
 exclude: ['bin', 'README.md']
+
+gems:
+  - jekyll-assets
+
+assets:
+  prefix: '/assets'
+  sources:
+    - _assets/images
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _assets/fonts
