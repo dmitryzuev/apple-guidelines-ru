@@ -19,6 +19,9 @@ github_username:  dmitryzuev
 # Build settings
 markdown: kramdown
 
+kramdown:
+  toc_levels: 2..6
+
 # if you wish to integrate disqus on pages set your shortname here
 disqus_shortname: ''
 
