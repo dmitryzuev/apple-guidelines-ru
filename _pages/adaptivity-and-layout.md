@@ -1,0 +1,1 @@
+../_posts/2016-03-10-adaptivity-and-layout.md
