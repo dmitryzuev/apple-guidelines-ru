@@ -3,6 +3,7 @@ layout: page
 title: "Проектирование для iOS"
 category: MobileHIG
 date: 2016-03-10 01:44:15
+order: 1
 ---
 
 iOS воплощает следующие идеи:

@@ -36,7 +36,7 @@ codeurl: 'https://github.com/dmitryzuev/apple-guidelines-ru'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['app-store-review-guidelines', 'App Store Review Guidelines'],
+    #['app-store-review-guidelines', 'App Store Review Guidelines'],
     ['MobileHIG', 'iOS Human Interface Guidelines']
 ]
 
