@@ -85,7 +85,7 @@ Size classes iPad при портретной ориентации | Size classe
 
 **Упростите взаимодействие пользователей с содержимым и элементами управления посредством обеспечения достаточного пространства для каждого интерактивного элемента.** Сделайте элементы, на которые можно нажать, размером около 44x44 точек.
 
-Рекомендовано | Не рекомендовано
+<span style="color: green;">Рекомендовано</span> | <span style="color: red;">Не рекомендовано</span>
 :------------:|:---------------:
 <img src='{{ site.baseurl }}/assets/images/adaptivity-and-layout/interact_with_content_r_2x.png' width='192'> | <img src='{{ site.baseurl }}/assets/images/adaptivity-and-layout/interact_with_content_nr_2x.png' width='192'>
 {: style="width: 100%"}
